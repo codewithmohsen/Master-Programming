@@ -1,9 +1,11 @@
+### Architectures 
+##### 1. Clean Architecture
 ### SOLID  principles
-#### Single Responsibility Principle
-#### Open/Closed Principle
-#### Liskov Substitution Principle
-#### Interface Segregation Principle
-#### Dependency Inversion (DIP) Principle
+#### 1. Single Responsibility Principle
+#### 2. Open/Closed Principle
+#### 3. Liskov Substitution Principle
+#### 4. Interface Segregation Principle
+#### 5. Dependency Inversion (DIP) Principle
 ### Design Patterns
 #### Creational patterns
 ##### 1. Abstract Factory 
@@ -20,3 +22,13 @@
 ##### 6. Flyweight 
 ##### 7. Proxy 
 #### Behavioral patterns
+##### 1. Chain of Responsibility
+##### 2. Command 
+##### 3. Iterator 
+##### 4. Mediator
+##### 5. Memento
+##### 6. Observer
+##### 7. State
+##### 8. Strategy
+##### 9. Template Method 
+##### 10. Visitor
