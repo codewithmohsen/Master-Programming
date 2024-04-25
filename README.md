@@ -61,11 +61,15 @@ description, challenge, solution
 ##### 10. Visitor
 description, challenge, solution
 ## Architectures 
-##### 1. Hexagonal architecture
-##### 2. Onion architecture
-##### 3. DCI architecture
-##### 4. BCE architecture
-##### 5. Clean architecture
+##### Domain-Driven Design (DDD) architecture
+##### Command Query Responsibility Segregation (CQRS) architecture
+##### Event-Driven Architecture (EDA) architecture
+##### Hexagonal architecture
+##### onion architecture
+##### DCI architecture
+##### BCE architecture
+##### Clean architecture
+
 ## Others
 ##### 1. Dependency injection (DI) technique
 description, challenge, solution
