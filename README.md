@@ -6,11 +6,17 @@
 #### Dependency Inversion (DIP) Principle
 ### Design Patterns
 #### Creational patterns
-##### Abstract Factory 
-##### Builder 
-##### Factory Method 
-##### Prototype 
-##### Singleton
+##### 1. Abstract Factory 
+##### 2. Builder 
+##### 3. Factory Method 
+##### 4. Prototype 
+##### 5. Singleton
 #### Structural patterns
-##### Adapter
+##### 1. Adapter
+##### 2. Bridge 
+##### 3. Composite 
+##### 4. Decorator 
+##### 5. Facade 
+##### 6. Flyweight 
+##### 7. Proxy 
 #### Behavioral patterns
