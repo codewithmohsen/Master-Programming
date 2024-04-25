@@ -35,7 +35,7 @@ function computeAreasOfShapes(
         return computedArea + shape.base * shape.height * 0.5 ;
       }
       if (shape instanceof Circle) {
-        return computedArea + shape.radius * Math.PI;
+        return computedArea + Math.PI * Math.pow(shape.radius, 2);
       }
     },
     0
