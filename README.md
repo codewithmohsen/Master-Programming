@@ -37,5 +37,8 @@
 ##### 4. BCE architecture
 ##### 5. Clean architecture
 ### Others
-#### 1. Data access object(DAO) Design Pattern
-#### 2. Data transfer objects (DTO)
+#### 1. Dependency injection (DI) technique
+#### 2. Inversion of control (IoC) design principle
+#### 3. Repository design pattern
+#### 4. Data access object (DAO) Design Pattern
+#### 5. Data transfer objects (DTO)
