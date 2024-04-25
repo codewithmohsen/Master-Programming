@@ -1,4 +1,5 @@
 # Master porogramming
+## Principles
 ### SOLID  principles
 #### 1. Single Responsibility Principle
 description, [challenge](https://github.com/codewithmohsen/Master-Programming/blob/main/Single%20responsibility%20principle%20-%20challenge.ts), [solution](https://github.com/codewithmohsen/Master-Programming/blob/main/Single%20responsibility%20principle%20-%20solution.ts)
@@ -10,7 +11,8 @@ description, [challenge](https://github.com/codewithmohsen/Master-Programming/bl
 description, [challenge](https://github.com/codewithmohsen/Master-Programming/blob/main/Interface%20segregation%20principle%20-%20challenge.ts), [solution](https://github.com/codewithmohsen/Master-Programming/blob/main/Interface%20segregation%20principle%20-%20solution.ts)
 #### 5. Dependency Inversion (DIP) Principle
 description, [challenge](https://github.com/codewithmohsen/Master-Programming/blob/main/Dependency%20inversion%20principle%20(DIP)%20-%20challenge.ts), [solution](https://github.com/codewithmohsen/Master-Programming/blob/main/Dependency%20inversion%20principle%20(DIP)%20-%20solution.ts)
-### Design Patterns
+## Design Patterns
+### Gang of Four (GoF)
 #### Creational patterns
 ##### 1. Abstract Factory 
 description, challenge, solution
