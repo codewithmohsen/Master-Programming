@@ -59,16 +59,26 @@ description, challenge, solution
 ##### 9. Template Method 
 description, challenge, solution
 ##### 10. Visitor
-description, challenge, solution
+description, challenge, solution, 
 ## Architectures 
 ##### Domain-Driven Design (DDD) architecture
+description, challenge, solution, [reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 ##### Command Query Responsibility Segregation (CQRS) architecture
+description, challenge, solution, reference
 ##### Event-Driven Architecture (EDA) architecture
+description, challenge, solution, reference
 ##### Hexagonal architecture
-##### onion architecture
+description, challenge, solution, [reference](http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)
+##### Onion architecture
+description, challenge, solution, [reference](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
+##### Screaming architecture
+description, challenge, solution, [reference](http://blog.cleancoders.com/2011-09-30-Screaming-Architecture)
 ##### DCI architecture
+description, challenge, solution, [reference](http://www.amazon.com/Lean-Architecture-Agile-Software-Development/dp/0470684208/)
 ##### BCE architecture
+description, challenge, solution, [reference](http://www.amazon.com/Object-Oriented-Software-Engineering-Approach/dp/0201544350)
 ##### Clean architecture
+description, challenge, solution, [reference](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ## Others
 ##### 1. Dependency injection (DI) technique
