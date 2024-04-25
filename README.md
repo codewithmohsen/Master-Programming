@@ -1,9 +1,14 @@
 ### SOLID  principles
 #### 1. Single Responsibility Principle
+description, [challenge](https://github.com/codewithmohsen/Master-Programming/blob/main/Single%20responsibility%20principle%20-%20challenge.ts), [solution](https://github.com/codewithmohsen/Master-Programming/blob/main/Single%20responsibility%20principle%20-%20solution.ts)
 #### 2. Open/Closed Principle
+description, [challenge](https://github.com/codewithmohsen/Master-Programming/blob/main/Open-closed%20principle%20-%20challenge.ts), [solution](https://github.com/codewithmohsen/Master-Programming/blob/main/Open-closed%20principle%20-%20solution.ts)
 #### 3. Liskov Substitution Principle
+description, [challenge](https://github.com/codewithmohsen/Master-Programming/blob/main/Liskov%20substitution%20principle%20-%20challenge.ts), solution
 #### 4. Interface Segregation Principle
+description, [challenge](https://github.com/codewithmohsen/Master-Programming/blob/main/Interface%20segregation%20principle%20-%20challenge.ts), [solution](https://github.com/codewithmohsen/Master-Programming/blob/main/Interface%20segregation%20principle%20-%20solution.ts)
 #### 5. Dependency Inversion (DIP) Principle
+description, [challenge](https://github.com/codewithmohsen/Master-Programming/blob/main/Dependency%20inversion%20principle%20(DIP)%20-%20challenge.ts), [solution](https://github.com/codewithmohsen/Master-Programming/blob/main/Dependency%20inversion%20principle%20(DIP)%20-%20solution.ts)
 ### Design Patterns
 #### Creational patterns
 ##### 1. Abstract Factory 
