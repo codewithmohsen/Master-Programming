@@ -3,16 +3,6 @@ interface Database {
   update(order: Order): void;
 }
 
-class OrderService {
-  database: Database;
-  public create(order: Order): void {
-    this.database.create(order);
-  }
-  public update(order: Order): void {
-    this.database.update(order);
-  }
-}
-
 class MySQLDatabase implements Database {
   public create(order: Order) {
     // create and insert to database
@@ -21,3 +11,12 @@ class MySQLDatabase implements Database {
     // update database
   }
 }
+
+class OrderService {
+  database: Database;
+  public create(order: Order): void {
+    this.database.create(order);
+  }
+  public update(order: Order): void {
+    this.database.update(order);
+  }
