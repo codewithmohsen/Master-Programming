@@ -32,7 +32,7 @@ public radius: number;
     this.radius = radius;
   }
   public getArea() {
-    return this.radius * this.radius * 3.14;
+    return Math.PI * Math.pow(this.radius, 2)
   }
 }
 
