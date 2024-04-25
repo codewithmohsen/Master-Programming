@@ -60,13 +60,13 @@ description, challenge, solution
 description, challenge, solution
 ##### 10. Visitor
 description, challenge, solution
-### Architectures 
-##### 1. Hexagonal architecture
-##### 2. Onion architecture
-##### 3. DCI architecture
-##### 4. BCE architecture
-##### 5. Clean architecture
-### Others
+## Architectures 
+#### 1. Hexagonal architecture
+#### 2. Onion architecture
+#### 3. DCI architecture
+#### 4. BCE architecture
+#### 5. Clean architecture
+## Others
 #### 1. Dependency injection (DI) technique
 description, challenge, solution
 #### 2. Inversion of control (IoC) design principle
