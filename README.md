@@ -32,3 +32,6 @@
 ##### 8. Strategy
 ##### 9. Template Method 
 ##### 10. Visitor
+### Others
+#### 1. Data access object(DAO) Design Pattern
+#### 2. Data transfer objects (DTO)
