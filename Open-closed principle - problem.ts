@@ -16,16 +16,26 @@ class Rectangle {
   }
 }
 
+class Circle {
+  public radius: number;
+  constructor(radius: number) {
+    this.radius = radius;
+  }
+}
+
 function computeAreasOfShapes(
-  shapes: Array<Rectangle | Triangle>
+  shapes: Array<Rectangle | Triangle | Circle>
 ) {
   return shapes.reduce(
-    (computedArea, shape) => {
+    (calculatedArea, shape) => {
       if (shape instanceof Rectangle) {
         return computedArea + shape.width * shape.height;
       }
       if (shape instanceof Triangle) {
         return computedArea + shape.base * shape.height * 0.5 ;
+      }
+      if (shape instanceof Circle) {
+        return computedArea + shape.radius * Math.PI;
       }
     },
     0
